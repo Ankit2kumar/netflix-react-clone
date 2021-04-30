@@ -1,5 +1,5 @@
 import React from 'react';
-import {NavDropdown,Navbar, Nav, Form, FormControl,Button } from "react-bootstrap";
+import {NavDropdown,Navbar, Nav,  } from "react-bootstrap";
 import logo from "../../src/netflix_logo.png";
 import capture from "../../src/Capture.PNG";
 import { FaSearch } from "react-icons/fa";

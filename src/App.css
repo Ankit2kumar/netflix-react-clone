@@ -172,3 +172,10 @@ searchContainer {
 	text-decoration: none;
 	font-weight: bolder;
 }
+#body {
+	background-color: black !important;
+}
+#trending {
+	color: white;
+	font-weight: bold;
+}
